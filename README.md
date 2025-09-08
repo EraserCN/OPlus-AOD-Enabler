@@ -33,12 +33,6 @@ Please follow these steps carefully. The module only needs to be active once to 
 
 3.  **Set Your AOD Style**: Choose and customize your preferred AOD clock style, notifications, and other elements.
 
-4.  **Disable the Module (Crucial Step)**:
-    * Open your module manager again.
-    * **Disable** the OPlus-AOD-Enabler module. Disabling is necessary; do not uninstall it yet if you want to change styles later.
-
-5.  **Reboot**: Restart your phone.
-
 After rebooting, your chosen AOD style will now remain active all day without the module being enabled.
 
 ## Compatibility
