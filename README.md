@@ -46,7 +46,7 @@ After rebooting, your chosen AOD style will now remain active all day without th
 This module has been successfully tested on the following devices:
 
 * Realme Neo7 Turbo
-* Realme GT7
+* Realme GT7(China)
 
 If you have tested this on another device, feel free to create an Issue or Pull Request to update this list.
 
