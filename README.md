@@ -33,6 +33,8 @@ Please follow these steps carefully. The module only needs to be active once to 
 
 3.  **Set Your AOD Style**: Choose and customize your preferred AOD clock style, notifications, and other elements.
 
+4.  **Switch Off This Module(VERY IMPORTANT)**: Turn this module off and reboot your device. AOD should always stay turned on until you change AOD style again. If want to change, switch this module on and reboot, then switch it off.
+
 After rebooting, your chosen AOD style will now remain active all day without the module being enabled.
 
 ## Compatibility
