@@ -44,6 +44,11 @@ This module has been successfully tested on the following devices:
 * Realme Neo7 Turbo
 * Realme GT7(China)
 
+It should 100% work for the following devices:
+
+OPPO K13 Turbo
+OPPO K13 Turbo Pro
+
 If you have tested this on another device, feel free to create an Issue or Pull Request to update this list.
 
 ## License
